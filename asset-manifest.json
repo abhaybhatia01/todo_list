@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abhaybhatia01/todo_list/static/css/main.1ea49dea.css",
+    "main.js": "/abhaybhatia01/todo_list/static/js/main.38ac5c09.js",
+    "index.html": "/abhaybhatia01/todo_list/index.html",
+    "main.1ea49dea.css.map": "/abhaybhatia01/todo_list/static/css/main.1ea49dea.css.map",
+    "main.38ac5c09.js.map": "/abhaybhatia01/todo_list/static/js/main.38ac5c09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea49dea.css",
+    "static/js/main.38ac5c09.js"
+  ]
+}
